@@ -28,5 +28,9 @@
     <!-- Button -->
     <string name="save">Save</string>
 
+    <!-- Messages -->
+    <string name="missingDetails">Enter Missing Details!</string>
+    <string name="dataSaved">Data Saved!</string>
+
 </resources>
 
