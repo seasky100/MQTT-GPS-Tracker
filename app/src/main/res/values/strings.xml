@@ -31,6 +31,7 @@
     <!-- Messages -->
     <string name="missingDetails">Enter Missing Details!</string>
     <string name="dataSaved">Data Saved!</string>
+    <string name="welcome">Welcome</string>
 
 </resources>
 
